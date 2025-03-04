@@ -2,7 +2,7 @@
 $host = "localhost";
 $db_user = "root";
 $db_pass = "";
-$db_name = "fectch_and_chill";
+$db_name = "fetch_chill_db";
 
 //connection
 $conn = mysqli_connect($host, $db_user, $db_pass, $db_name);
